@@ -23,7 +23,7 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/marouane-qaos-443a2121a/))
+- [LinkedIn](https://www.linkedin.com/in/marouane-qaos-443a2121a/)
 
 ## GitHub Stats
 
