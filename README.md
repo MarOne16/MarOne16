@@ -1,35 +1,27 @@
 # Hi there, I'm Marouane Qaos! 👋
 
-## About Me
 
-I am a software engineering student at 42network, focusing on front-end development and UX|UI design.
+<!-- Centered wrapper -->
+<div align="center">
 
-- 🌱 I’m currently learning [Flutter]
-- 💬 Ask me about [software engineering or Front-End]
+<!-- GitHub Stats — dark / light -->
 
-## Skills
+<!-- Stats — commits hidden -->
+![Stats (dark)](https://github-readme-stats.vercel.app/api?username=marone16&show_icons=true&hide=commits&rank_icon=github&hide_border=true&line_height=28&cache_seconds=21600&theme=tokyonight#gh-dark-mode-only)
+![Stats (light)](https://github-readme-stats.vercel.app/api?username=marone16&show_icons=true&hide=commits&rank_icon=github&hide_border=true&line_height=28&cache_seconds=21600&theme=github_light#gh-light-mode-only)
 
-- **Languages:** HTML, CSS, JavaScript, c, c++, bash,
-- **Tools:** Git, Docker, Jira, 
-
-## Projects
-
-Here are some projects I'm proud of:
-
-- [Aquapong](https://github.com/linasbk/AquaPong-Website)
-- [webserver](https://github.com/MarOne16/webServer)
-- [3DGame](https://github.com/Mohamed-Bousoufi/CUB3D)
-- [mini shell](https://github.com/MarOne16/minishell)
-- [containers network](https://github.com/MarOne16/7elma)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/marouane-qaos-443a2121a/)
-
-## GitHub Stats
-
-[![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=marone16&show_icons=true&theme=radical)](https://github.com/marone16)
+<!-- Top languages -->
+![Top Langs (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=marone16&layout=compact&hide_border=true&langs_count=8&card_width=360&cache_seconds=21600&theme=tokyonight#gh-dark-mode-only)
+![Top Langs (light)](https://github-readme-stats.vercel.app/api/top-langs/?username=marone16&layout=compact&hide_border=true&langs_count=8&card_width=360&cache_seconds=21600&theme=github_light#gh-light-mode-only)
 
 
 
-[![mqaos's 42 stats](https://badge.mediaplus.ma/binary/mqaos)](https://github.com/oakoudad/badge42) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarOne16)]()
+![Activity Graph (dark)](https://github-readme-activity-graph.vercel.app/graph?username=marone16&area=true&hide_border=true&radius=6&theme=tokyo-night#gh-dark-mode-only)
+![Activity Graph (light)](https://github-readme-activity-graph.vercel.app/graph?username=marone16&area=true&hide_border=true&radius=6&theme=github-light#gh-light-mode-only)
+
+
+[![mqaos's 42 stats](https://badge.mediaplus.ma/binary/mqaos)](https://github.com/oakoudad/badge42) 
+</div>
+
+
+
