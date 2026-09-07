@@ -1,14 +1,6 @@
 # Hi there, I'm Marouane Qaos! 👋
 
-<div align="center">
 
-![Profile banner](https://github.com/MarOne16.png)
-
-### I'm Marouane — a software enthusiast building things with curiosity and care.
-
-[![Activity Graph (dark)](https://github-readme-activity-graph.vercel.app/graph?username=marone16&area=true&hide_border=true&radius=6&theme=tokyo-night#gh-dark-mode-only)](https://github.com/MarOne16)
-
-</div>
 
 ---
 
